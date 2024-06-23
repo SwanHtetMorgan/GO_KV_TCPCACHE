@@ -1,0 +1,9 @@
+Swan's Cache Manual                                             |
+________________________________________________________________|
+Run with makefile			make run                            |
+Call with 		 			nc localhost 57                     |
+Config first               Config <time_duration_expired>       |
+Method: to use                                                  |
+GET UPDATE DELETE                                               |
+________________________________________________________________|
+                                                                \n
